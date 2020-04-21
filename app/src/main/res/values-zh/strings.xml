@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediaCodecDemo</string>
+    <string name="file_path">文件路径:</string>
+    <string name="h264_file_path">H264文件路径</string>
+    <string name="select_file">选择文件</string>
+    <string name="screen_record">屏幕录制</string>
+    <string name="play_h264_file">播放H264文件</string>
+    <string name="file_save_path">文件保存路径</string>
+</resources>

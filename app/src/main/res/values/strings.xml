@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MediaCodecDemo</string>
+    <string name="file_path">File Path:</string>
+    <string name="select_file">Select File</string>
+    <string name="screen_record">Screen Record</string>
+    <string name="h264_file_path">H264 File Path</string>
+    <string name="play_h264_file">Play H264 File</string>
+    <string name="file_save_path">File Save Path</string>
+</resources>
